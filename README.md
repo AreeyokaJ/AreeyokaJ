@@ -1,6 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Areeyoka John 
-Software Engineer 
-I'm a computer science student at Rutgers with a passion for software engineering, full-stack development, and AI/ML. I enjoy building impactful applications, solving challenging coding problems, and continuously learning new technologies.  * 🌍  I'm based in New Jersey * 🖥️  See my portfolio at [https://www.areeyokadj.com](http://areeyokadj.com) * ✉️  You can contact me at [areeyokajohn@gmail.com](mailto:areeyokajohn@gmail.com)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Areeyoka John ===================================================================================================================================== 
+Software Engineer
+----------------- 
+
+I'm a computer science student at Rutgers with a passion for software engineering, full-stack development, and AI/ML. I enjoy building impactful applications, solving challenging coding problems, and continuously learning new technologies.  
+* 🌍  I'm based in New Jersey * 🖥️  See my portfolio at [https://www.areeyokadj.com](http://areeyokadj.com) * ✉️  You can contact me at [areeyokajohn@gmail.com](mailto:areeyokajohn@gmail.com)
 
 ### Skills  
 
